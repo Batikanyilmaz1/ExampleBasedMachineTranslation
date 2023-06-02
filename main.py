@@ -1,6 +1,5 @@
 # First, pip install zemberek-python, and be sure NLTK is downloaded
 # nltk.download("punkt") IMPORTANT
-# I run the code on Colab 'cause it throws some verification error for nltk.download
 
 import nltk
 from nltk.metrics.distance import edit_distance
